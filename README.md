@@ -39,14 +39,10 @@ Describe the way in which the code can be used.
 
 ## Authors
 
-* contributor name - [Twitter] - [GitHub]
+* Mai Stafford, PhD - [Twitter](https://twitter.com/stafford_xm)
+* Anne Alarilla - [Twitter](https://twitter.com/alarillaanne)
+* Jay Hughes - [GitHub](https://github.com/Jay-ops256)
 
 ## License
 
-This project is licensed under the [MIT License](link to license file).
-
-## Acknowledgments
-
-* Credit anyone whose code was used
-* Inspiration
-* etc
+This project is licensed under the [MIT License](link to license file)
