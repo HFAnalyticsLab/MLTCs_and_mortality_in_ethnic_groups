@@ -14,8 +14,14 @@ We used data from the Clinical Practice Research Datalink (CPRD Aurum) linked to
 
 ## How does it work?
 
-What you need to do to reproduce the analysis or re-use the code on your local machine.  
+There are four R scripts that process the CPRD sample, create variables and then run models to test our hypotheses.
 
+* 01_Process_data.R
+*   This creates and analysis dataset from our CPRD sample and clinical codelists.
+
+* 02_Descriptives_for_ethnicity_mortality_ppr.R
+* 03_Survival_prepdata.R
+* 04_Survival.R
 ### Requirements
 
 Software or packages that needs to be installed and and how to install them.
