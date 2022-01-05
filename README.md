@@ -12,7 +12,7 @@ Survival time based on deaths from all causes is the primary outcome for this st
 
 We used data from the Clinical Practice Research Datalink (CPRD Aurum) linked to Hospital Episode Statistics, IMD mortality and Indices of Multiple Depriavtion (eRAP 20_000239).
 
-The codelists we used to derive conditions for patients are from [Anna Head](https://github.com/annalhead) at the University of Liverpool and can be found [here](https://github.com/annalhead/CPRD_multimorbidity_codelists)
+The codelists we used to derive conditions for patients are from [Anna Head](https://github.com/annalhead) at the University of Liverpool and can be found [here](https://github.com/annalhead/CPRD_multimorbidity_codelists).
 
 ## How does it work?
 
