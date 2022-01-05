@@ -23,19 +23,17 @@ There are four R scripts that process the CPRD sample, create variables and then
 
 ### Requirements
 
-Software or packages that needs to be installed and and how to install them.
 
-For example:
-These scripts were written in R version (to be added) and RStudio Version 1.1.383. 
+These scripts were written in R version (to be added) and RStudio Version 1.1.383.
+
 The following R packages (available on CRAN) are needed: 
 * [**tidyverse**](https://www.tidyverse.org/)
+
+In addition these scripts make use of our in house package [**aurumpipeline**](https://github.com/HFAnalyticsLab/aurumpipeline) available here on GitHub.
 
 ### Getting started
 
 Describe the way in which the code can be used. 
-
-## Useful references
-
 
 ## Authors
 
@@ -45,4 +43,4 @@ Describe the way in which the code can be used.
 
 ## License
 
-This project is licensed under the [MIT License](link to license file)
+This project is licensed under the MIT License
