@@ -1,4 +1,4 @@
-#### Prep Aurum dsmple and derive variables
+#### Prep Aurum sample and derive variables
 
 
 library(aurumpipeline) ## load in the pipeline functions
