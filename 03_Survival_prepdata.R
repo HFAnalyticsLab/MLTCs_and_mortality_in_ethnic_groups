@@ -1,7 +1,3 @@
-library(crayon)
-library(devtools)
-library(plyr)
-library(dplyr)
 library(tidyverse)
 library(haven)
 library(arrow)
