@@ -1,10 +1,3 @@
-
-#pth <- "R:/R_repository"
-
-#install.packages(c("crayon"),
-#                 repos = file.path("file://", pth),
-#                 type = "win.binary", dependencies = TRUE)
-
 library(crayon)
 library(devtools)
 library(plyr)
