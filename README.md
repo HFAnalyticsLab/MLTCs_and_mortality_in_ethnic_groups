@@ -23,11 +23,17 @@ There are four R scripts that process the CPRD sample, create variables and then
 
 ### Requirements
 
-
-These scripts were written in R version (to be added) and RStudio Version 1.1.383.
+These scripts were written in R version 4.0.5 and RStudio Version 1.1.383.
 
 The following R packages (available on CRAN) are needed: 
 * [**tidyverse**](https://www.tidyverse.org/)
+* [**data.table**](https://cran.r-project.org/web/packages/data.table)
+* [**arrow**](https://arrow.apache.org/docs/r/)
+* [**tableone**](https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html)
+* [**nnet**](https://cran.r-project.org/web/packages/nnet/index.html)
+* [**survival**](https://cran.r-project.org/web/packages/survival/index.html)
+* [**survminer**](https://cran.r-project.org/web/packages/survminer/index.html)
+* [**broom**](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
 
 In addition these scripts make use of our in house package [**aurumpipeline**](https://github.com/HFAnalyticsLab/aurumpipeline) available here on GitHub.
 
