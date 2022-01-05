@@ -12,6 +12,8 @@ Survival time based on deaths from all causes is the primary outcome for this st
 
 We used data from the Clinical Practice Research Datalink (CPRD Aurum) linked to Hospital Episode Statistics, IMD mortality and Indices of Multiple Depriavtion (eRAP 20_000239).
 
+The codelists we used to derive conditions for patients are from [Anna Head](https://github.com/annalhead) at the University of Liverpool and can be found [here](https://github.com/annalhead/CPRD_multimorbidity_codelists)
+
 ## How does it work?
 
 There are four R scripts that process the CPRD sample, create variables and then run models to test our hypotheses.
@@ -39,9 +41,11 @@ In addition these scripts make use of our in house package [**aurumpipeline**](h
 
 ### Getting started
 
-Describe the way in which the code can be used. 
+If you have access to a CPRD Aurum sample then you can run the scripts in order to re-produce this work. You will need to download the codelists described above and find a suitable codelist to derive ethincity, such as the one created at [opensafely](https://www.opencodelists.org/codelist/opensafely/ethnicity/2020-04-27/).
 
 ## Authors
+
+Add link to paper [here]
 
 * Mai Stafford, PhD - [Twitter](https://twitter.com/stafford_xm)
 * Anne Alarilla - [Twitter](https://twitter.com/alarillaanne)
